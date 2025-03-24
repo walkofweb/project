@@ -1,3 +1,0 @@
-<?php echo $__env->make('Home.layout.header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php echo $__env->yieldContent('main-container'); ?>
-<?php echo $__env->make('Home.layout.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/kjp0gycjtjk3/public_html/resources/views/Home/layout/main.blade.php ENDPATH**/ ?>
