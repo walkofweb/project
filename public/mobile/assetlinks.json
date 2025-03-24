@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "walkofweb",
+      "package_name": "com.walkofweb",
+      "sha256_cert_fingerprints": [
+        "95:12:14:15:8C:BE:1F:49:A1:ED:50:1F:9B:25:5D:50:8B:4C:A3:66:47:1C:0A:D9:E1:9E:04:62:43:B1:11:A9"
+      ]
+    }
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.walkofweb",
+      "sha256_cert_fingerprints": [
+        "BE:02:44:6D:7F:2A:46:E4:81:05:6E:F0:D7:8F:75:CB:A9:BE:99:35:17:D9:06:97:CB:42:70:81:B2:6B:0B:DA"]
+    }
+  }
+]
